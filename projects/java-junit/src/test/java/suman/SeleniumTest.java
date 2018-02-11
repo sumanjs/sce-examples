@@ -21,7 +21,7 @@ public class SeleniumTest {
     public static void openBrowser(){
 //        System.setProperty("webdriver.Firefoxdriver","/usr/bin/firefox");
 
-        System.setProperty("webdriver.gecko.driver", "/home/oleg/Desktop/geckodriver");
+        System.setProperty("webdriver.gecko.driver", "/usr/local/bin/geckodriver");
         driver = new FirefoxDriver();
 
         //Now you can Initialize marionette driver to launch firefox
