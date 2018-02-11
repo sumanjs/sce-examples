@@ -1,0 +1,3 @@
+
+
+https://stackoverflow.com/questions/48718838/how-to-run-selenium-tests-with-a-standalone-containerized-server/48722039

@@ -1,4 +1,4 @@
-package java-test-ng;
+package suman;
 
 public class App {
     public static void main(String[] args) {
