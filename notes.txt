@@ -1,3 +1,12 @@
 
 
 https://stackoverflow.com/questions/48718838/how-to-run-selenium-tests-with-a-standalone-containerized-server/48722039
+
+
+for ruby projects:
+http://bundler.io/v1.10/bundle_gem.html
+
+
+Mac machine, Python version Python 2.7.10
+
+

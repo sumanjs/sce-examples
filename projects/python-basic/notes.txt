@@ -1,0 +1,6 @@
+
+this python project was created with:
+https://github.com/blue-yonder/pyscaffold
+
+to run tests, use:
+python setup.py test
