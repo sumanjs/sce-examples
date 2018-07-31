@@ -1,0 +1,25 @@
+{
+  "name": "ts-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tdd": "rm -rf dist && tsc && mocha -t 10000 dist/tests",
+    "tslint-check": "tslint-config-prettier-check ./tslint.json"
+  },
+  "keywords": [],
+  "author": "Guilherme Oenning",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^2.2.41",
+    "@types/node": "^8.0.6",
+    "@types/selenium-webdriver": "^3.0.4",
+    "chromedriver": "^2.40.0",
+    "mocha": "^3.4.2",
+    "reflect-metadata": "^0.1.10",
+    "selenium-webdriver": "^3.4.0",
+    "tslint": "^5.4.3",
+    "tslint-config-prettier": "^1.14.0",
+    "typescript": "^2.4.1"
+  }
+}
