@@ -1,0 +1,19 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "jsRules": {},
+  "rules": {
+    "interface-name": [false],
+    "max-classes-per-file": false,
+    "max-line-length": [false],
+    "member-access": false,
+    "member-ordering": [false],
+    "no-console": [false],
+    "no-unused-expression": [false],
+    "no-var-requires": false,
+    "object-literal-shorthand": false,
+    "ordered-imports": [false],
+    "variable-name": [true, "check-format", "allow-leading-underscore", "ban-keywords"]
+  },
+  "rulesDirectory": []
+}
