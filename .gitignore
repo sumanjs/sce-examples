@@ -6,3 +6,7 @@ node_modules
 target
 **/target
 */target
+tmp
+temp
+tmp/worktrees
+temp/worktrees
